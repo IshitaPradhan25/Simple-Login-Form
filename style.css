@@ -1,0 +1,92 @@
+ .main
+ {
+    background:url('wp3398828.webp');
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+
+h1
+{
+    font-size:50px;
+    font-family:'Times New Roman', Times, serif;
+    font-style: oblique;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    margin-top:20px;
+    padding-bottom:20px;
+}
+
+.logo 
+{
+    width:100px;
+    margin-left: 200px;
+    margin-bottom:50px;
+    padding-right: 40px;
+}
+
+input
+{
+     width:auto;
+     height:20px;
+     font-size:20px;
+     padding:20px;  
+} 
+
+.container
+{
+  font-size: 30px;
+}   
+.container input
+{
+  width: 450px;
+}
+
+.containerc
+ {
+    font-size:30px;
+    float:left;
+    height:50px;
+ } 
+ input.checkBox1 
+{
+  width: 20px;
+  height: 20px;
+}
+
+button
+ {
+    background-color: #04AA6D;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor:pointer;
+    width:500px;
+    font-size: 20px;
+ }
+ 
+ span.psw
+   {
+    float: right;
+    padding-top:20px;
+    font-size:25px;
+  }
+
+  .resetbtn 
+  {
+    width:auto;
+    background-color: #f44336;
+  }  
+
+
+
+ 
+
+
+
+
